@@ -1,0 +1,11 @@
+{
+  "default": {
+    "requireModule": [
+      "ts-node/register"
+    ],
+    "require": [
+      "features/**/*.ts"
+    ],
+    "timeout": 10000
+  }
+}
