@@ -1,5 +1,6 @@
 # cucumberjs-stagehand-template
-A template to start a Cucumber + Stagehand project.
+A template to start a Cucumber + Stagehand project.  
+It pretends to be a "vibe coding" template to write functional automated tests.
 
 ## Installation
 Install node packages:
